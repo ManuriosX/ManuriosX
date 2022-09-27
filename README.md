@@ -29,7 +29,7 @@ ___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
- <a href="https://github.com/ManuriosX"><img src="https://cardivo.vercel.app/api?name=ManuriosX&description=Hi,%20i%27m%20Manurios%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/3b6c148bd3cfa41ec7ef6.png&backgroundColor=%23ecf0f1&instagram=@manuxnl&github=ManuriosX&pattern=leaf&colorPattern=%23eaeaea" /><a>
+ <a href="https://github.com/ManuriosX"><img src="https://cardivo.vercel.app/api?name=MonxnL&description=Hi,%20i%27m%20Manurios%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/9c634ccee04626695b159.jpg&backgroundColor=%23ecf0f1&instagram=@manuxnl&github=monxnl&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ___
@@ -38,37 +38,23 @@ ___
 ```
 ___
 
-### [`MY SELF`](https://instagram.com/manuxnl)
-```
-"Name": "-",
-"Status": "Graduates SMKN 3 Banjarmasin",
-"Address": "Banjarmasin, Kalimantan Selatan, Indonesia",
-"Age": "19 Years Old",
-"Birthday": "March - 15, 2002"
-   
-"Big Thanks To"
-
-  "- Allah S.W.T
-  "- 7Coders Team (Fxc7 Team)"
-  "- ΛNU Team"
-  "- And My Friends"
-```
+### [` No Need To Introduce My Self`](https://instagram.com/xmonxnl)
 ___
    
    <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-stats.vercel.app/api?username=ManuriosX&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/monxnl"><img src="https://github-readme-stats.vercel.app/api?username=monxnl&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/monxnl"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuriosX&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/monxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/monxnl"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 ___
@@ -76,9 +62,9 @@ ___
 
     
 <p align="center">
-<a href="https://www.instagram.com/manuxnl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/xmonxnl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=50766866666&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=3547939393&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
