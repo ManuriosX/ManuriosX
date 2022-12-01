@@ -34,10 +34,6 @@ ___
 
 ___
 
-```
-```
-___
-
 ### [` No Need To Introduce My Self`](https://instagram.com/xmonxnl)
 ___
    
@@ -62,9 +58,9 @@ ___
 
     
 <p align="center">
-<a href="https://www.instagram.com/xmonxnl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/monxey7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=3547939393&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=50764777777&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
