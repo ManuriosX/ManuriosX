@@ -31,7 +31,7 @@ ___
 
 ___
 
-### [`Tap Here !`](https://instagram.com/monxey7)
+### [`Tap Here !`](https://instagram.com/monexxe)
 ___
    
    <p align="center">
@@ -55,9 +55,9 @@ ___
 
     
 <p align="center">
-<a href="https://www.instagram.com/monxey7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=black" alt="Instagram"></a>
+<a href="https://www.instagram.com/monexxe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=black" alt="Instagram"></a>
 <a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=50764777777&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=6281522623250&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
